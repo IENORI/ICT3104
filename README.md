@@ -1,6 +1,5 @@
-TO DO:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IENORI/ICT3104/main)
 
-- INSERT THE BINDER BADGE HERE
 - BEAUTIFY THE READ.ME
 
 # ICT3104 TEAM-07
