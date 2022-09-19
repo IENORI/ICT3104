@@ -1,0 +1,8 @@
+name: tsu
+channels:
+  - pytorch
+  - conda-forge
+  - default
+dependencies:
+  - pip:
+      - -r requirements.txt
