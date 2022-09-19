@@ -5,4 +5,5 @@ channels:
   - default
 dependencies:
   - pip:
-      - -r requirements.txt
+      - --find-links https://download.pytorch.org/whl/cu113/torch/
+      - --requirement requirements.txt

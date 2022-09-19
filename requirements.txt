@@ -1,4 +1,3 @@
---find-links https://download.pytorch.org/whl/cu113/torch/;
 torch==1.10.0+cu113; sys_platform== 'win32'
 torchvision==0.11.0+cu113; sys_platform=='win32'
 torchaudio==0.10.0+cu113; sys_platform=='win32'
