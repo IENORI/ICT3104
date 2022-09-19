@@ -1,7 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IENORI/ICT3104/main)
 
-TODO:
-
 - BEAUTIFY THE READ.ME
 
 # ICT3104 TEAM-07
@@ -29,6 +27,14 @@ The dataset description and original video can be request in this [project page]
 - Tools
   - Pose Visualization: the visualization of the provided pose data
   - ...
+  
+- Referencing sites:
+  - [Project Brief Slides](https://drive.google.com/file/d/1ubiK7Ctdd_JOi5Qa3GcJD9U3wcpCSAut/view?usp=sharing)
+  - [ToyotaSmartHome Github](https://github.com/titania7777/ToyotaSmartHome)
+  - [TensorFlow Hub](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_object_detection.ipynb)
+  - [PDAN](https://github.com/dairui01/PDAN)
+  - [Extraction Video Features](https://github.com/v-iashin/video_features)
+  - [Video Features Documentation](https://iashin.ai/video_features/models/i3d/)
 
 If you find our repo or paper useful, please cite us as
 
