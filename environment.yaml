@@ -1,0 +1,9 @@
+name: tsu
+channels:
+  - pytorch
+  - conda-forge
+  - default
+dependencies:
+  - pip:
+      - --find-links https://download.pytorch.org/whl/torch_stable.html
+      - --requirement requirements.txt
