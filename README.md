@@ -1,7 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IENORI/ICT3104/main)
 
-- BEAUTIFY THE READ.ME
-
 # ICT3104 TEAM-07
 
 Chen XinXin (2002169)
@@ -13,6 +11,8 @@ Ren Jiaqi (2001836)
 Ng Jing Fang (2002855)
 
 Yao Yujing (2001452)
+
+\*\* The team does not have any usable GPU locally on their hardwares, and as such, are not able to run the TSU locally on our own hardware. The team have decided to use google colab to be able to run the software and to do the requirements.
 
 # Toyota Smarthome Untrimmed
 
@@ -27,7 +27,6 @@ The dataset description and original video can be request in this [project page]
 - Tools
   - Pose Visualization: the visualization of the provided pose data
   - ...
-  
 - Referencing sites:
   - [Project Brief Slides](https://drive.google.com/file/d/1ubiK7Ctdd_JOi5Qa3GcJD9U3wcpCSAut/view?usp=sharing)
   - [ToyotaSmartHome Github](https://github.com/titania7777/ToyotaSmartHome)
